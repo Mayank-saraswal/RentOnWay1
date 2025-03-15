@@ -1,0 +1,3 @@
+@echo off
+echo Checking RentOnWay services status using PowerShell...
+powershell -ExecutionPolicy Bypass -File "%~dp0check-status.ps1" 

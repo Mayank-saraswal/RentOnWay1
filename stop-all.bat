@@ -1,0 +1,3 @@
+@echo off
+echo Stopping RentOnWay services using PowerShell...
+powershell -ExecutionPolicy Bypass -File "%~dp0stop-project.ps1" 
