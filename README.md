@@ -50,4 +50,4 @@ If you're experiencing MongoDB connection issues:
 - Payment Gateway: Razorpay
 
 ## Inspiration
-This project is inspired by [Rent the Runway](https://www.renttherunway.com/), a popular clothing rental service. 
+This project is inspired by [Rent the Runway](https://www.renttherunway.com/), a popular clothing rental service.
